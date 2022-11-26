@@ -1,0 +1,1 @@
+Zabbix script to return windows w32time information

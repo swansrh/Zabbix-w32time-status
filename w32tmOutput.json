@@ -1,0 +1,12 @@
+[
+    {
+        "Current Source": "False",
+        "Peer": "192.168.1.201",
+        "State": "Active",
+        "Time Remaining": "478.8465362s",
+        "Mode": "3 (Client)",
+        "Stratum": "3 (secondary reference - syncd by (S)NTP)",
+        "PeerPoll Interval": "10 (1024s)",
+        "HostPoll Interval": "10 (1024s)"
+    }
+]
